@@ -3,7 +3,7 @@
 $checkbox-size: nx-spacer(m);
 
 :host {
-    display: block;
+    display: inline-flex;
     position: relative;
 
     &.has-error {
